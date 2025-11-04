@@ -134,6 +134,3 @@ It showcases a complete workflow — from **data preprocessing** to **model eval
 **Kavi Dev**
 GitHub: [KAVI-DEV-ui](https://github.com/KAVI-DEV-ui)
 
----
-
-Would you like me to include a **Streamlit UI section** (with sample code for interactive predictions) in the README too?
